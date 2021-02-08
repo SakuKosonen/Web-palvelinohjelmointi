@@ -1,0 +1,10 @@
+hellodbauthentication\AccountController.class
+hellodbauthentication\HelloDbAuthenticationApplication.class
+hellodbauthentication\AccountRepository.class
+hellodbauthentication\MessageRepository.class
+hellodbauthentication\SecurityConfiguration.class
+hellodbauthentication\Account.class
+hellodbauthentication\MessageController.class
+hellodbauthentication\CustomUserDetailsService.class
+hellodbauthentication\Message.class
+hellodbauthentication\DefaultController.class

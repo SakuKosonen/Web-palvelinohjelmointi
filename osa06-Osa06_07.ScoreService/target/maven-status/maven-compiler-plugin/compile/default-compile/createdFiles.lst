@@ -1,0 +1,7 @@
+scoreservice\Score.class
+scoreservice\Game.class
+scoreservice\GameController.class
+scoreservice\ScoreRepository.class
+scoreservice\ScoreController.class
+scoreservice\ScoreServiceApplication.class
+scoreservice\GameRepository.class

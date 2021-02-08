@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+    <head th:replace="fragments/fragment :: head" lang="en">
+        <meta charset="UTF-8" />
+        <title>Supersiteee</title>
+    </head>
+    <body>
+        <header th:replace="fragments/fragment :: header">
+            
+        </header>
+
+        <section th:replace="fragments/fragment :: section">
+            <h1>Hoi</h1>
+            
+        </section>
+
+
+        <main>
+            <p>See more cool sites!</p>
+            <p th:text="${#dates.dayOfWeekName(date)}">dates</p>
+
+            <ul>
+                <li><a href="https://www.coolsiteoftheday.com">https://www.coolsiteoftheday.com</a></li>
+                <li><a href="https://unsplash.com/">https://unsplash.com/</a></li>
+            </ul>
+        </main>
+
+        <footer th:replace="fragments/fragment :: epic">
+            
+        </footer>
+    </body>
+</html>

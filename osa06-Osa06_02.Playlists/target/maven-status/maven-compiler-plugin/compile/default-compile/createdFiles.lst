@@ -1,0 +1,8 @@
+playlists\PlaylistController.class
+playlists\PlaylistRepository.class
+playlists\Track.class
+playlists\PlaylistApplication.class
+playlists\Playlist.class
+playlists\TrackController.class
+playlists\TrackRepository.class
+playlists\DefaultController.class

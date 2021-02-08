@@ -1,0 +1,6 @@
+hiddenfields\SecurityConfiguration.class
+hiddenfields\Application.class
+hiddenfields\DefaultController.class
+hiddenfields\Message.class
+hiddenfields\MessageController.class
+hiddenfields\MessageRepository.class

@@ -1,0 +1,7 @@
+onlyfortheselected\SecurityConfiguration.class
+onlyfortheselected\CustomUserDetailsService.class
+onlyfortheselected\SecretDataController.class
+onlyfortheselected\Account.class
+onlyfortheselected\DefaultController.class
+onlyfortheselected\OnlyForTheSelectedApplication.class
+onlyfortheselected\AccountRepository.class

@@ -1,0 +1,6 @@
+calculations\CalculationController.class
+calculations\DefaultController.class
+calculations\CalculationsApplication.class
+calculations\CalculationRepository.class
+calculations\CalculationService.class
+calculations\Calculation.class
